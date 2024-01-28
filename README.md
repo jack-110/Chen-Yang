@@ -1,13 +1,8 @@
 # Chen Yang
-👩‍💻  About Me :
-I am a software enginerr.
+👩‍💻  About Me: I am a software engineer from China and have around two years in the industry.
 
-🔭 I once worked on many interesting projects, such as distributed file system and compiler.
+🔭 Currently, I am studying CS168 from UCB. If you are also interested in it, maybe we can study together. 
 
-💻 I have participated in research related to bandit algorithm, our paper was accepted by UAI 2022, this is our experiment
+🌱 I'm looking for an appropriate opportunity in the industry.
 
-🙂 I use github to document my learning experience like how to use rdma, my course notes and exams
-
-🌱 I'm looking for an appropriate opportunity in industry.
-
-⚡ I am interested in eBPF and kv store now.
+⚡ I am fascinated by low-level knowledge of computer science.
