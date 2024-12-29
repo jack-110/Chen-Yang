@@ -3,7 +3,7 @@
 
 📚 Here are some books that I have readed or am reading.
 
-[ ] <<Code Complete\>>
+- [ ] <<Code Complete\>>
 
 🌱 I'm looking for an appropriate opportunity in the industry.
 
