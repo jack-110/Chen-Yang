@@ -4,6 +4,7 @@
 📚 Here are some books that I have readed or am reading.
 - Reading
   - <<Code Complete\>>
+
 🌱 I'm looking for an appropriate opportunity in the industry.
 
 ⚡ I am fascinated by low-level knowledge of computer science.
